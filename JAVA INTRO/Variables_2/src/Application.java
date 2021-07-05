@@ -1,4 +1,4 @@
-public class Variables_2 {
+public class Application {
     public static void main(String[] args) {
         int myNumber = 88;
         short myShort = 847;
