@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a0154f2-750d-471b-aa20-0cf16f9de001" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ForLoop_5/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/If_6/src/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileLoop_4/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForLoop_5/ForLoop_5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld_1/HelloWorld_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/If_6/If_6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA INTRO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings_3/Strings_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables_2/Variables_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WhileLoop_4/WhileLoop_4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/HelloWorld_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/JAVA INTRO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/Strings_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/Variables_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA INTRO/WhileLoop_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld_1/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings_3/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variables_2/src/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoop_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-exercises.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="7a0154f2-750d-471b-aa20-0cf16f9de001" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +20,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
