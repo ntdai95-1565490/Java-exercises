@@ -15,4 +15,5 @@ public class App {
 
         return factorial(value - 1) * value;
     }
+
 }
