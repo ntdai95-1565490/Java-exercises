@@ -4,7 +4,7 @@ class Plant {
     private String name;
 
     public String getData() {
-        String data = "some stuff" + calculateGrowthForecast();
+        String data = "some stuff " + calculateGrowthForecast();
 
         return data;
     }
@@ -26,6 +26,14 @@ class Plant {
 public class App {
 
     public static void main(String[] args) {
+
+        Plant plant = new Plant();
+
+        plant.setName("Tulip");
+
+        System.out.println(plant.getName());
+
+        System.out.println(plant.getData());
 
     }
 }

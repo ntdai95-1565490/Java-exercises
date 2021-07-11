@@ -5,7 +5,7 @@ public class App {
         String[] texts = {"one", "two", "three"};
 
         try {
-            System.out.println(texts[3]);
+            System.out.println(texts[2]);
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println(e.toString());
         }

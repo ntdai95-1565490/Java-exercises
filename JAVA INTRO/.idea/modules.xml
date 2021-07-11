@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ForLoop_5/ForLoop_5.iml" filepath="$PROJECT_DIR$/ForLoop_5/ForLoop_5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HelloWorld_1/HelloWorld_1.iml" filepath="$PROJECT_DIR$/HelloWorld_1/HelloWorld_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/If_6/If_6.iml" filepath="$PROJECT_DIR$/If_6/If_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA INTRO.iml" filepath="$PROJECT_DIR$/.idea/JAVA INTRO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Strings_3/Strings_3.iml" filepath="$PROJECT_DIR$/Strings_3/Strings_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Variables_2/Variables_2.iml" filepath="$PROJECT_DIR$/Variables_2/Variables_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WhileLoop_4/WhileLoop_4.iml" filepath="$PROJECT_DIR$/WhileLoop_4/WhileLoop_4.iml" />
     </modules>
   </component>
 </project>

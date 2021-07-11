@@ -1,5 +1,5 @@
 import ocean.Fish;
-import ocean.plants.Seaweed;
+import ocean.plant.Seaweed;
 
 public class App {
 

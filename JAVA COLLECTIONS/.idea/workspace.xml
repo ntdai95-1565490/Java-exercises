@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a110a0d-0610-4176-a6d7-038bed47971d" name="Default Changelist" comment="" />
+    <list default="true" id="0a110a0d-0610-4176-a6d7-038bed47971d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ArrayList_49/out/production/ArrayList_49/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA INTRO/AbstractClasses_37/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA INTRO/AnonymousClasses_32/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA INTRO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA INTRO/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA INTRO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/ArrayList_49/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList_49/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/ArrayList_49/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList_49/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/ArrayList_49/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList_49/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/ArrayList_49/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList_49/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/ArrayList_49/ArrayList_49.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList_49/ArrayList_49.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/ArrayList_49/out/production/ArrayList_49/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/ArrayList_49/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayList_49/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/CastingNumericalValues_28/out/production/CastingNumericalValues_28/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA INTRO/CastingNumericalValues_28/out/production/CastingNumericalValues_28/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Custom_ObjectsSets_KeysMaps_54/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Custom_ObjectsSets_KeysMaps_54/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Custom_ObjectsSets_KeysMaps_54/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Custom_ObjectsSets_KeysMaps_54/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Custom_ObjectsSets_KeysMaps_54/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Custom_ObjectsSets_KeysMaps_54/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Custom_ObjectsSets_KeysMaps_54/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Custom_ObjectsSets_KeysMaps_54/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Custom_ObjectsSets_KeysMaps_54/Custom_ObjectsSets_KeysMaps_54.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Custom_ObjectsSets_KeysMaps_54/Custom_ObjectsSets_KeysMaps_54.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Custom_ObjectsSets_KeysMaps_54/out/production/Custom_ObjectsSets_KeysMaps_54/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/Custom_ObjectsSets_KeysMaps_54/out/production/Custom_ObjectsSets_KeysMaps_54/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Custom_ObjectsSets_KeysMaps_54/out/production/Custom_ObjectsSets_KeysMaps_54/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/Custom_ObjectsSets_KeysMaps_54/out/production/Custom_ObjectsSets_KeysMaps_54/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Custom_ObjectsSets_KeysMaps_54/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Custom_ObjectsSets_KeysMaps_54/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/HashMap_51/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap_51/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/HashMap_51/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap_51/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/HashMap_51/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap_51/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/HashMap_51/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap_51/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/HashMap_51/HashMap_51.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap_51/HashMap_51.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/HashMap_51/out/production/HashMap_51/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap_51/out/production/HashMap_51/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/HashMap_51/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/HashMap_51/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/LinkedLists_50/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLists_50/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/LinkedLists_50/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLists_50/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/LinkedLists_50/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLists_50/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/LinkedLists_50/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLists_50/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/LinkedLists_50/LinkedLists_50.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLists_50/LinkedLists_50.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/LinkedLists_50/out/production/LinkedLists_50/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLists_50/out/production/LinkedLists_50/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/LinkedLists_50/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedLists_50/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/NaturalOrdering_56/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/NaturalOrdering_56/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/NaturalOrdering_56/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NaturalOrdering_56/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/NaturalOrdering_56/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NaturalOrdering_56/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/NaturalOrdering_56/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NaturalOrdering_56/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/NaturalOrdering_56/NaturalOrdering_56.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NaturalOrdering_56/NaturalOrdering_56.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/NaturalOrdering_56/out/production/NaturalOrdering_56/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/NaturalOrdering_56/out/production/NaturalOrdering_56/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/NaturalOrdering_56/out/production/NaturalOrdering_56/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/NaturalOrdering_56/out/production/NaturalOrdering_56/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/NaturalOrdering_56/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/NaturalOrdering_56/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/ReadingFilesFileReader/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Sets_53/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Sets_53/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Sets_53/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Sets_53/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Sets_53/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Sets_53/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Sets_53/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Sets_53/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Sets_53/Sets_53.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sets_53/Sets_53.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Sets_53/out/production/Sets_53/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sets_53/out/production/Sets_53/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/Sets_53/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sets_53/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortedMaps_52/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SortedMaps_52/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortedMaps_52/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SortedMaps_52/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortedMaps_52/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SortedMaps_52/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortedMaps_52/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SortedMaps_52/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortedMaps_52/SortedMaps_52.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SortedMaps_52/SortedMaps_52.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortedMaps_52/out/production/SortedMaps_52/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortedMaps_52/out/production/SortedMaps_52/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortedMaps_52/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortedMaps_52/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/SortingLists_55.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/SortingLists_55.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/out/production/SortingLists_55/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/out/production/SortingLists_55/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/out/production/SortingLists_55/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/out/production/SortingLists_55/App$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/out/production/SortingLists_55/App$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/out/production/SortingLists_55/App$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/out/production/SortingLists_55/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/out/production/SortingLists_55/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/out/production/SortingLists_55/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/out/production/SortingLists_55/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/out/production/SortingLists_55/ReverseAlphabeticalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/out/production/SortingLists_55/ReverseAlphabeticalComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/out/production/SortingLists_55/StringLengthComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/out/production/SortingLists_55/StringLengthComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA INTRO/SortingLists_55/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingLists_55/src/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +95,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA INTRO/Methods_14" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ngota\Documents\GitHub\Java-exercises\JAVA COLLECTIONS" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="ArrayList_49" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,5 +129,17 @@
       <updated>1625883146838</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
