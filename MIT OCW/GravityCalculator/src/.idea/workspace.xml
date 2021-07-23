@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0922045b-7ab4-4883-b5d5-9f4cfd578ddf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/ArraysLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/ClassesObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/InteractiveProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/Looping2DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/TwoDimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JAVA INTRO/Basic_Exam/src/WhileLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GravityCalculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GravityCalculator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA INTRO/LambdaExpressions_62/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA INTRO/LambdaExpressions_62/src/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1vbipRb1cyT32nYGNW0SYojPseF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0922045b-7ab4-4883-b5d5-9f4cfd578ddf" name="Default Changelist" comment="" />
+      <created>1626837373960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626837373960</updated>
+    </task>
+    <servers />
+  </component>
+</project>
