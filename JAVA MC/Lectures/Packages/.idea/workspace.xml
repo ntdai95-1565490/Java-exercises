@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e00a3ce6-d7c4-41c1-8a4a-fe4e64f5f0b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/47_Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/src/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/src/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/47_Interface/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/48_Playlist_InnerClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/48_Playlist_InnerClass/src/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/src/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/src/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingExercises/49_AbstractClass/src/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassChallenge/src/academy/learnprogramming/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassChallenge/src/academy/learnprogramming/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassChallenge/src/academy/learnprogramming/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassChallenge/src/academy/learnprogramming/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassChallenge/src/academy/learnprogramming/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/academy/learnprogramming/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/academy/learnprogramming/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/academy/learnprogramming/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/academy/learnprogramming/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/academy/learnprogramming/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/academy/learnprogramming/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClass/src/academy/learnprogramming/BaseBallPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClass/src/academy/learnprogramming/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClass/src/academy/learnprogramming/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClass/src/academy/learnprogramming/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClass/src/academy/learnprogramming/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClassChallenge/src/academy/learnprogramming/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClassChallenge/src/academy/learnprogramming/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClassChallenge/src/academy/learnprogramming/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClassChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClassChallenge/src/academy/learnprogramming/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClassChallenge/src/academy/learnprogramming/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClassChallenge/src/academy/learnprogramming/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/InnerClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/academy/learnprogramming/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/academy/learnprogramming/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/InnerClassesChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/academy/learnprogramming/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/academy/learnprogramming/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/academy/learnprogramming/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/academy/learnprogramming/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/academy/learnprogramming/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/academy/learnprogramming/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/InterfacesChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingExercises/46_Playlist/out/production/46_Playlist/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodingExercises/46_Playlist/out/production/46_Playlist/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingExercises/46_Playlist/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodingExercises/46_Playlist/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/src/academy/learnprogramming/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1wFKxDBw2jWcruYF9Lnf9bQoPF7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WinDemo" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.timbuchalka.Main" />
+      <module name="Packages" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e00a3ce6-d7c4-41c1-8a4a-fe4e64f5f0b3" name="Changes" comment="" />
+      <created>1628049141542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628049141542</updated>
+    </task>
+    <servers />
+  </component>
+</project>
