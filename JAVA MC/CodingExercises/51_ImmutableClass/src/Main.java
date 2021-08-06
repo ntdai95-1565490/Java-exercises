@@ -1,18 +1,16 @@
-package academy.learnprogramming;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
 public class Main {
 
-    private final static Map<Integer, Location> locations = new HashMap<>();
+    private static Map<Integer, Location> locations = new HashMap<>();
 
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
-        Map<String, Integer> tempExit;
+        Map<String, Integer> tempExit = new HashMap<>();
         locations.put(0, new Location(0, "You are sitting in front of a computer learning Java", null));
 
         tempExit = new HashMap<>();
@@ -80,7 +78,7 @@ public class Main {
             if (exits.containsKey(direction)) {
                 loc = exits.get(direction);
             } else {
-              System.out.println("You cannot go in that direction");
+                System.out.println("You cannot go in that direction");
             }
         }
     }
