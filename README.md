@@ -1,3 +1,3 @@
-# Java-exercises
+# Java Exercises
 
-- Contains java exercises for self-development
+- Contains Java exercises for self-development
